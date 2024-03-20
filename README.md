@@ -1,7 +1,7 @@
 # Django Rest Framework Assignment with Signals
 
 ## Project Overview
-You are tasked with creating a Django Rest Framework (DRF) application that allows users to create, read, update, and delete (CRUD) posts. The application should have the following functionality:
+Task is creating a Django Rest Framework (DRF) application that allows users to create, read, update, and delete (CRUD) posts. The application should have the following functionality:
 1. The user should be able to create a post by providing a title, body, and author.
 2. The user should be able to retrieve a list of all posts, or a specific post by ID.
 3. The user should be able to update or delete their own posts.
