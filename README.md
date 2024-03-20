@@ -1,4 +1,4 @@
-# Django Rest Framework Assignment with Signals
+# Django Rest Framework with Signals
 
 ## Project Overview
 Task is creating a Django Rest Framework (DRF) application that allows users to create, read, update, and delete (CRUD) posts. The application should have the following functionality:
